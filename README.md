@@ -1,1 +1,1 @@
-# bigdata
+# sqoop
